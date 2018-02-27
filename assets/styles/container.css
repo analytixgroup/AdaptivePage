@@ -1,0 +1,35 @@
+.container {
+    margin: 0 auto;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.container-fluid-border {
+    padding: 0 20px;
+}
+
+@media screen and (min-width: 320px){
+    .container {
+        padding: 0 15px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .container {
+        width: 698px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .container {
+        width: 954px;
+    }
+}
+
+@media screen and (min-width: 1440px){
+    .container {
+        width: 1170px;
+    }
+}
