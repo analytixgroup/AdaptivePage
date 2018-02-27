@@ -1,1 +1,1 @@
-# AdaptivePage
+# AdaptivePage + AnalytiX Main Page
