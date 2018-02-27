@@ -25,13 +25,3 @@ ul {
     box-sizing: border-box;
 }
 
-.slide {
-    background-image: url("../img/bg-main.jpg");
-    background-size: cover;
-    text-align: center;
-}
-
-.main-title h2 {
-    font-size: 52px;
-    color: white;
-}
