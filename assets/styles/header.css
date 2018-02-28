@@ -55,7 +55,7 @@
     justify-content: center;
     z-index: 1;
     transform: translateX(100%);
-    transition: 1s ease-out;
+    transition: .5s ease-out;
 }
 
 .nav-menu li {
@@ -70,6 +70,10 @@
 
 .mobile-nav.-open .nav-menu {
     transform: translateX(0%);
+}
+
+.mobile-nav.-close .nav-menu {
+    transform: translateX(100%);
 }
 
 .mobile-nav.-open .nav-toggle i:first-child {
