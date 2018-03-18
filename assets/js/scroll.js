@@ -6,4 +6,8 @@ $(function() {
         }, 1000);
         return false;
     });
+
+    $('.scroll').click(function () {
+        $('.scroll').removeClass()
+    })
 });
